@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nisura Sahan 
-- 🌱 I’m currently learning in NIBM 
+  
 
 
 

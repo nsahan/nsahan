@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nisura Sahan</h1>
 <h3 align="center">Full-Stack Developer | Software Engineer | Undergratuate | NIBM</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nsahan&label=Profile%20views&color=0e75b6&style=flat" alt="nsahan" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nsahan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nsahan?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 
 - 🌱 I’m currently learning **in NIBM**

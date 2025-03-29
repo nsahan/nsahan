@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nisura Sahan</h1>
+<h1 align="center">Hi 👋, I'm Sahan Jayarathna</h1>
 <h3 align="center">Full-Stack Developer | Software Engineer | Undergratuate | NIBM</h3>
 
 <p align="center">
